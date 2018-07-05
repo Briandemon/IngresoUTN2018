@@ -1,8 +1,6 @@
-function Mostrar()
+function mostrar()
 {
 //tomo la edad  
-
-
 
 
 
