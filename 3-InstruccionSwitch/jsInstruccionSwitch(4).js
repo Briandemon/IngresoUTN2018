@@ -1,6 +1,6 @@
-function Mostrar()
+function mostrar()
 {
-//tomo el mes 
+//tomo la edad  
 var mesDelAño = document.getElementById('mes').value;
 
 //alert (mesDelAño);

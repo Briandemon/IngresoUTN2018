@@ -1,6 +1,6 @@
-function Mostrar()
+function mostrar()
 {
-//tomo la hora
+//tomo la edad  
 var laHora = document.getElementById('hora').value;
 
 
