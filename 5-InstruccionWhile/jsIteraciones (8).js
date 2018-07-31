@@ -16,14 +16,13 @@ do {
 	
 	contador++;
 	
- }
-
-   else { 
+ else { 
 	 positivo = positivo + numero;
- }
+
+ 
  respuesta = prompt("Desea continuar");
  
- while (respuesta == "si");
+} while (respuesta == "si");
 		
 document.getElementById('suma').value=positivo;
 
