@@ -4,13 +4,13 @@ Mostar el resulto por medio de "ALERT"*/
 function sumar()
 {
 
-    var numero1;
-    var numero2;
+    var numeroUno;
+    var numeroDos;
     var resultado;
 
-    numero1 = parseInt(document.getElementById("numeroUno").value);
-    numero2 = parseInt(document.getElementById("numeroDos").value);
-    resultado = (numero1+numero2);
+    numeroUno = parseInt(document.getElementById("numeroUno").value);
+    numeroDos = parseInt(document.getElementById("numeroDos").value);
+    resultado = (numeroUno+numeroDos);
     alert ("La suma es " + resultado);
 }
 

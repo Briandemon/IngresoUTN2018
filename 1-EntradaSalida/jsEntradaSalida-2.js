@@ -6,6 +6,6 @@ var	nombre;
 
 nombre = prompt("Ingresa su nombre");
 
-alert ("Nombre");
+alert (nombre);
 }
 
